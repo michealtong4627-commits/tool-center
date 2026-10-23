@@ -4,13 +4,13 @@
     "title": "ToolCenter",
     "description": "Ứng dụng tổng hợp công cụ nội bộ.",
     "version": "1.0",
-    "downloadUrl": "https://github.com/TEN_GITHUB/tool-center/releases/download/v1.0/ToolCenter-1.0.apk"
+    "downloadUrl": "https://github.com/michealtong4627-commits/tool-center/releases/download/v1.0/ToolCenter-1.0.apk"
   },
   {
     "id": "P-002",
     "title": "Tool B",
     "description": "Mô tả ngắn cho ứng dụng thứ hai.",
     "version": "1.0",
-    "downloadUrl": "https://github.com/TEN_GITHUB/tool-center/releases/download/v1.0/toolB.apk"
+    "downloadUrl": "https://github.com/michealtong4627-commits/tool-center/releases/download/v1.0/toolB.apk"
   }
 ]
