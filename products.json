@@ -14,5 +14,69 @@
     "description": "Mô tả ngắn cho ứng dụng thứ hai.",
     "version": "1.0",
     "downloadUrl": "https://www.dropbox.com/scl/fi/ohnor1ethggb2ab609k73/App-Cloner-Premium-2.7.1.apk?rlkey=rddtt3kthhjakay1eq6lhy83s&st=y86rdbi1&dl=1"
+  },
+  {
+    "id": "P-001",
+    "title": "ToolCenter",
+    "description": "Ứng dụng tổng hợp công cụ nội bộ.",
+    "version": "1.0",
+    "downloadUrl": "https://github.com/michealtong4627-commits/tool-center/releases/download/v1.0/ToolCenter-2.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/michealtong4627-commits/tool-center/refs/heads/main/icons/toolcenter.png"
+
+  },
+  {
+    "id": "P-002",
+    "title": "Tool c",
+    "description": "Mô tả ngắn cho ứng dụng thứ hai.",
+    "version": "1.0",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/ohnor1ethggb2ab609k73/App-Cloner-Premium-2.7.1.apk?rlkey=rddtt3kthhjakay1eq6lhy83s&st=y86rdbi1&dl=1"
+  },
+  {
+    "id": "P-001",
+    "title": "ToolCenter 3",
+    "description": "Ứng dụng tổng hợp công cụ nội bộ.",
+    "version": "1.0",
+    "downloadUrl": "https://github.com/michealtong4627-commits/tool-center/releases/download/v1.0/ToolCenter-1.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/michealtong4627-commits/tool-center/refs/heads/main/icons/toolcenter.png"
+
+  },
+  {
+    "id": "P-002",
+    "title": "Tool B",
+    "description": "Mô tả ngắn cho ứng dụng thứ hai.",
+    "version": "1.0",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/ohnor1ethggb2ab609k73/App-Cloner-Premium-2.7.1.apk?rlkey=rddtt3kthhjakay1eq6lhy83s&st=y86rdbi1&dl=1"
+  },
+  {
+    "id": "P-001",
+    "title": "ToolCenter",
+    "description": "Ứng dụng tổng hợp công cụ nội bộ.",
+    "version": "1.0",
+    "downloadUrl": "https://github.com/michealtong4627-commits/tool-center/releases/download/v1.0/ToolCenter-1.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/michealtong4627-commits/tool-center/refs/heads/main/icons/toolcenter.png"
+
+  },
+  {
+    "id": "P-002",
+    "title": "Tool B",
+    "description": "Mô tả ngắn cho ứng dụng thứ hai.",
+    "version": "1.0",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/ohnor1ethggb2ab609k73/App-Cloner-Premium-2.7.1.apk?rlkey=rddtt3kthhjakay1eq6lhy83s&st=y86rdbi1&dl=1"
+  },
+    {
+    "id": "P-001",
+    "title": "ToolCenter",
+    "description": "Ứng dụng tổng hợp công cụ nội bộ.",
+    "version": "1.0",
+    "downloadUrl": "https://github.com/michealtong4627-commits/tool-center/releases/download/v1.0/ToolCenter-1.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/michealtong4627-commits/tool-center/refs/heads/main/icons/toolcenter.png"
+
+  },
+  {
+    "id": "P-002",
+    "title": "Tool B",
+    "description": "Mô tả ngắn cho ứng dụng thứ hai.",
+    "version": "1.0",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/ohnor1ethggb2ab609k73/App-Cloner-Premium-2.7.1.apk?rlkey=rddtt3kthhjakay1eq6lhy83s&st=y86rdbi1&dl=1"
   }
 ]
